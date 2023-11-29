@@ -1,14 +1,15 @@
 # Welcome 🙏
 ## Who I am
-C# Intern 
+• C# Intern 
 
-Minecraft enthusiast: [Plugins and Utils](https://github.com/festino-mc-plugins)
+• Minecraft enthusiast: [Plugins and Utils](https://github.com/festino-mc-plugins)
 
 <details>
   <summary>Pixel artist: <a href="https://vk.com/f_euph">Feuph</a></summary>
   
-  ![2023-mr-house](https://github.com/festino/festino/assets/44211685/d2eb2d0f-4850-423e-af6f-c708aeffa929)
-  ![2023-cringetober-1-heterochromia](https://github.com/festino/festino/assets/44211685/0f888c74-bd27-40b7-9b67-e56e3305f576)
+  ![2023-chibis](https://raw.githubusercontent.com/festino/festino/master/assets/2023-02-25_en.png)
+  ![2023-mr-house](https://raw.githubusercontent.com/festino/festino/master/assets/2023-05-13.png)
+  ![2023-cringetober-1-heterochromia](https://raw.githubusercontent.com/festino/festino/master/assets/2023-10-17.png)
 
 </details>
 
