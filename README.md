@@ -5,7 +5,7 @@
   <summary>C# Intern</summary>
   <p></p>
   
-  Coming soon...
+  - [DiscordMusicBot](https://github.com/festino/DiscordMusicBot) - Discord.NET + Youtube API
   
 </details>
 
@@ -37,12 +37,10 @@
 
 ## Hard skills 🧠
 -in progress-
-* .NET Core, C#
-* ASP.NET, Razor Pages, MVC
-* MS SQL, SQLite
-
-* Python
-* Java: Spigot API
+* Languages  
+C#, Python, JavaScript, Java
+* Databases  
+MS SQL, SQLite
 
 ## Contact me 📞
 [<img align="left" alt="VK" width="80px" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/TfKk/QGyS93cW7/PNG%20-%20digital/VK%20Logo.png"/>][vk]
