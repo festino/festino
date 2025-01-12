@@ -2,7 +2,7 @@
 
 ## Who I am 😏
 <details>
-  <summary>C# Intern</summary>
+  <summary>Junior .NET Developer</summary>
   <p></p>
   
   - [DiscordMusicBot](https://github.com/festino/DiscordMusicBot) - Discord.NET + Youtube API
@@ -56,6 +56,8 @@
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/MS%20SQL%20Server-995511?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-995511.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-995511.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-995511.svg?style=for-the-badge&logo=mongoDB&logoColor=white)
 
 * **Tools**
 
