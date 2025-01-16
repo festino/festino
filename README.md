@@ -2,10 +2,12 @@
 
 ## Who I am 😏
 <details>
-  <summary>Junior .NET Developer</summary>
+  <summary>.NET Developer</summary>
   <p></p>
-  
+
+  Pretty old projects:
   - [DiscordMusicBot](https://github.com/festino/DiscordMusicBot) - Discord.NET + Youtube API
+  - [AvaloniaTimer](https://github.com/festino/AvaloniaTimer) - Avalonia little app
   
 </details>
 
